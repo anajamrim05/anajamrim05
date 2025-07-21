@@ -14,6 +14,20 @@
 
 ---
 
-### 📊 GitHub Stats
-![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+### ✨ Sobre mim
+
+Me chamo Ana Júlia Amorim, sou estudante de Engenharia e apaixonada por tecnologia, educação e criatividade.  
+Desde o ensino médio, busco aprender sobre áreas como administração, programação e design.
+
+Gosto de explorar:
+- 💻 Desenvolvimento web (HTML, CSS, JavaScript)
+- 🧮 Matemática aplicada à engenharia
+- 🧾 Organização e processos administrativos
+- 🎨 Edição para redes sociais e apresentações visuais
+
+Atualmente, também me dedico ao projeto **Engenharia Conectada**, que visa unir estudantes e profissionais da área por meio de uma plataforma colaborativa.
+
+Sou curiosa, protagonista nos projetos escolares e acredito no poder do conhecimento compartilhado.
+
+---
+
