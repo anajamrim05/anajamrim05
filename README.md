@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou a Ana Júlia Amorim</h1>
 
-<!--
-**anajamrim05/anajamrim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia | 💡 Curiosa por tecnologia e educação  
+📍 Brasil | 💻 Foco em front-end
+🚀 Em busca de crescimento contínuo e experiências reais no mercado  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias que estudo
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![Ana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
